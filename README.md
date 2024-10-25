@@ -17,4 +17,4 @@ Cell_feature.py was used to calculate the cell features in a whole slide images.
 ## 3.Citations
 If you find it useful for your work, please cite the following work.
 
-
+Wu X, et al. Biologically interpretable multi-task deep learning pipeline predicts molecular alterations, grade, and prognosis in glioma patients. npj Precision Oncology, 2024, 8:181. DOI: 10.1038/s41698-024-00670-2
